@@ -1,6 +1,40 @@
 {
-    "description": "You will finally meet the adorable **RocBabies** after they come out of incubation, as they are revealed to you. Each **Baby Incubation NFT** will become one of the 10,000 unique **RocBabies**.",
+    "description": "This token is one of 10,000 unique RocBabies minted on the Ethereum Network. Please visit [rocbabies.io](https://rocbabies.io) for more information.",
     "external_url": "https://rocbabies.io",
-    "image": "https://gateway.pinata.cloud/ipfs/QmZMiBsSFfc4G6ReYECbU1H7HJ9jKz2MqJyYsDmnf7yfBk",
-    "name": "Rocbabies Incubator #53"
+    "image": "https://gateway.pinata.cloud/ipfs/QmZb33M1CyzYBpMV9jZzuZMEKBD2odrUezpX11rz7fmTzJ/1775bb6bb6b31a85d3984049142c3374",
+    "name": "Rocbabies #53",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Afterglow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ninja"
+        },
+        {
+            "trait_type": "Bib",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Sunglass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Milk Bottle"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Effect",
+            "value": "None"
+        }
+    ]
 }
